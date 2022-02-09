@@ -1,0 +1,15 @@
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\numbergame.exe
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\numbergame.deps.json
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\numbergame.runtimeconfig.json
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\numbergame.dll
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\ref\numbergame.dll
+C:\Users\ivt44\KU\SU\self\numbergame\bin\Debug\net6.0\numbergame.pdb
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.csproj.AssemblyReference.cache
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.AssemblyInfoInputs.cache
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.AssemblyInfo.cs
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.csproj.CoreCompileInputs.cache
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.dll
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\ref\numbergame.dll
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.pdb
+C:\Users\ivt44\KU\SU\self\numbergame\obj\Debug\net6.0\numbergame.genruntimeconfig.cache
